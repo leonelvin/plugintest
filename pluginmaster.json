@@ -12,6 +12,11 @@
     "IconUrl": "https://github.com/Lynesth/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
     "DownloadLinkInstall": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.11/BetterTargetingSystem.zip",
     "DownloadLinkTesting": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.11/BetterTargetingSystem.zip",
-    "DownloadLinkUpdate": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.11/BetterTargetingSystem.zip"
+    "DownloadLinkUpdate": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.11/BetterTargetingSystem.zip",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "0.0.11",
+    "LastUpdated": 1719906839,
+    "DownloadCount": 0,
   }    
 ]
